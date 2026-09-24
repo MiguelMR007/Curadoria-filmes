@@ -1,0 +1,9 @@
+    .primeiraCLasse{
+        color:lawngreen;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 600;
+        font-display: fallback;
+    }
+    .primeiraCLasse:hover{
+        color: aquamarine;
+    font-weight: 600;  }
